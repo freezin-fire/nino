@@ -4,6 +4,9 @@
 
 **NINO** (Non-Intuitive Notepad-like Operation) is a lightweight, terminal-based text editor written entirely in C. Designed for simplicity and efficiency, NINO also provides essential text editing features with advanced capabilities like syntax highlighting.
 <br>
+NINO being so compact and small, that by removing some of the fancy features can be used for embedded systems running linux. The output file is already only about 36KB, which can be further reduced accourding to the use case.
+<br>
+<br>
 **Note -** Currently supporting Linux and MacOS X, support for Windows coming soon
 
 ## Features
